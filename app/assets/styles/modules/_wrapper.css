@@ -10,6 +10,7 @@
 		max-width: 975px;
 	}
 
+<<<<<<< HEAD
 	&--no-padding-until-medium {
 		padding-left: 0;
 		padding-right: 0;
@@ -31,6 +32,8 @@
 	}
 
 
+=======
+>>>>>>> our-features
 	.wrapper {
 		padding-left: 0;
 		padding-right: 0;
