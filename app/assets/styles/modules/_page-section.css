@@ -5,7 +5,6 @@
 		padding: 4.5rem 0;
 	}
 
-<<<<<<< HEAD
 	&--no-b-padding-until-medium {
 		padding-bottom: 0;
 
@@ -22,14 +21,10 @@
 		}
 	}
 
-
-=======
->>>>>>> our-features
 	&--blue {
 		background-color: $mainBlue;
 		color: white;
 	}
-<<<<<<< HEAD
 
 	&--testimonials {
 		background-color: #e0e6ef;
@@ -39,6 +34,4 @@
 			background-size: cover;
 		}
 	}
-=======
->>>>>>> our-features
 }

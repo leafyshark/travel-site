@@ -8,3 +8,5 @@ john.greet();
 
 var tay = new Person ("Taylor Reeves", "Sea");
 tay.greet();
+
+// hi
