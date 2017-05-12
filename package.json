@@ -4,7 +4,9 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "normalize.css": "^6.0.0",
-    "uuid": "^3.0.1"
+    "uuid": "^3.0.1",
+    "waypoint": "^0.2.8",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.7",
