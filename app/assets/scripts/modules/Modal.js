@@ -32,7 +32,6 @@ class Modal {
 
 	closeModal() {
 		this.modal.removeClass('modal--is-visible');
-		return false;
 	}
 }
 
